@@ -13,7 +13,6 @@ public class Main {
         //borodino != borodino.getNameBook() + borodino.getAuthor().getNameFirst() + borodino.getAuthor().getNameSecond() + borodino.getYear()
         // пока не запушишь, новую ветку не создашь, так ведь?
 
-
         borodino.setYear(1815);
         System.out.println(borodino.getYear());
 
