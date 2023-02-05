@@ -7,7 +7,7 @@ public class Book {
         this.nameBook = nameBook;
         this.author = author;
         this.year = year;
-        // надо ли писать конструктор, если он сам создался при alt+insert? всегда дали он создается "невидимым"?
+        // надо ли писать конструктор, если он сам создался при alt+insert? всегда да ли он создается "невидимым"?
 
     }
 
@@ -33,5 +33,22 @@ public class Book {
 
     public void setYear(int year) {
         this.year = year;
+    }
+
+
+    @Override
+    public String toString() {
+    return nameBook + author+ year;
+    }
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null || getClass() != obj.getClass()) {
+            return false;
+        }
+        Book book = (Book) obj;
+        return year == book.year && nameBook.equals(book.getNameBook()) && author.equals(book.getAuthor());
     }
 }

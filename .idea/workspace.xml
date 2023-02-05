@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fac715-e0a1-479f-890e-184171ebbdf0" name="Changes" comment="домашка">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +25,25 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="cont" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bb897341-0160-47e1-938f-3d6233c6cee3" />
+        <option name="url" value="https://github.com/thompson866/Homework12.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Author.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,7 +75,8 @@
       <updated>1675507624276</updated>
       <workItem from="1675507625428" duration="2789000" />
       <workItem from="1675512623155" duration="7116000" />
-      <workItem from="1675586283197" duration="6604000" />
+      <workItem from="1675586283197" duration="7806000" />
+      <workItem from="1675611192015" duration="7791000" />
     </task>
     <task id="LOCAL-00001" summary="домашка">
       <created>1675593292738</created>
@@ -68,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675593292738</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="домашка,походу накосячил в проджекте, окрасилось синим">
+      <created>1675594074425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675594074425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="домашка,походу накосячил в проджекте, окрасилось синим, а еще в проджекте нет ссыли на скайпро, скрин прикреплю при сдаче домашки">
+      <created>1675594189126</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675594189126</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,13 +110,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="continued" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="домашка,походу накосячил в проджекте, окрасилось синим" />
+    <MESSAGE value="домашка,походу накосячил в проджекте, окрасилось синим, а еще в проджекте нет ссыли на скайпро, скрин прикреплю при сдаче домашки" />
     <MESSAGE value="домашка" />
     <option name="LAST_COMMIT_MESSAGE" value="домашка" />
   </component>
