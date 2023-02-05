@@ -51,4 +51,8 @@ public class Book {
         Book book = (Book) obj;
         return year == book.year && nameBook.equals(book.getNameBook()) && author.equals(book.getAuthor());
     }
+    @Override
+    public int hashCode(){
+        return 1;
+    }
 }

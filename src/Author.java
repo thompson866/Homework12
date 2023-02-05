@@ -40,4 +40,8 @@ public class Author {
         Author author = (Author) obj;
         return nameFirst.equals(author.getNameFirst()) && nameSecond.equals(author.getNameSecond());
     }
+    @Override
+    public int hashCode(){
+        return 3;
+    }
 }
