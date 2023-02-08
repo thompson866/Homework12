@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07fac715-e0a1-479f-890e-184171ebbdf0" name="Changes" comment="домашка">
-      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,8 @@
       <workItem from="1675507625428" duration="2789000" />
       <workItem from="1675512623155" duration="7116000" />
       <workItem from="1675586283197" duration="7806000" />
-      <workItem from="1675611192015" duration="8273000" />
+      <workItem from="1675611192015" duration="10097000" />
+      <workItem from="1675887605551" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="домашка">
       <created>1675593292738</created>
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675626910426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="домашка">
+      <created>1675627474394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675627474394</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
