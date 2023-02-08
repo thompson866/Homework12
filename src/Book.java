@@ -1,7 +1,7 @@
 import java.util.Objects;
 
 public class Book {
-    private  String nameBook;
+    private String nameBook;
     private Author author;
     private int year;
 
@@ -40,7 +40,7 @@ public class Book {
 
     @Override
     public String toString() {
-    return nameBook + author+ year;
+        return nameBook + author + year;
     }
 
     @Override
@@ -54,5 +54,6 @@ public class Book {
     @Override
     public int hashCode() {
         return Objects.hash(nameBook, author, year);
+        // а я могу на гитхабе коммент оставить, типа исправил
     }
 }
