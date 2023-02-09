@@ -11,10 +11,12 @@ public class Main {
         // print так делать или отдельным методом
         //можно ли геттеры вызывать в вывод не только по отдельности, их никак не объединить
         //borodino != borodino.getNameBook() + borodino.getAuthor().getNameFirst() + borodino.getAuthor().getNameSecond() + borodino.getYear()
-
+        // пока не запушишь, новую ветку не создашь, так ведь?
 
         borodino.setYear(1815);
         System.out.println(borodino.getYear());
+
+
 
     }
 }

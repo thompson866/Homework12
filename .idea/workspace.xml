@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07fac715-e0a1-479f-890e-184171ebbdf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworkClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="07fac715-e0a1-479f-890e-184171ebbdf0" name="Changes" comment="домашка, доработка" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +18,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="continued" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bb897341-0160-47e1-938f-3d6233c6cee3" />
+        <option name="url" value="https://github.com/thompson866/Homework12.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Author.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,8 +70,70 @@
       <updated>1675507624276</updated>
       <workItem from="1675507625428" duration="2789000" />
       <workItem from="1675512623155" duration="7116000" />
-      <workItem from="1675586283197" duration="5623000" />
+      <workItem from="1675586283197" duration="7806000" />
+      <workItem from="1675611192015" duration="10097000" />
+      <workItem from="1675887605551" duration="3265000" />
+      <workItem from="1675891305668" duration="1859000" />
+      <workItem from="1675935387560" duration="1879000" />
+      <workItem from="1675944884991" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="домашка">
+      <created>1675593292738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675593292738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="домашка,походу накосячил в проджекте, окрасилось синим">
+      <created>1675594074425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675594074425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="домашка,походу накосячил в проджекте, окрасилось синим, а еще в проджекте нет ссыли на скайпро, скрин прикреплю при сдаче домашки">
+      <created>1675594189126</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675594189126</updated>
+    </task>
+    <task id="LOCAL-00004" summary="домашка">
+      <created>1675626910426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675626910426</updated>
+    </task>
+    <task id="LOCAL-00005" summary="домашка">
+      <created>1675627474394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675627474394</updated>
+    </task>
+    <task id="LOCAL-00006" summary="домашка">
+      <created>1675889650408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675889650408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="домашка, доработка">
+      <created>1675890476824</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675890476824</updated>
+    </task>
+    <task id="LOCAL-00008" summary="домашка, доработка">
+      <created>1675945121513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675945121513</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,10 +144,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="continued" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="домашка,походу накосячил в проджекте, окрасилось синим" />
+    <MESSAGE value="домашка,походу накосячил в проджекте, окрасилось синим, а еще в проджекте нет ссыли на скайпро, скрин прикреплю при сдаче домашки" />
+    <MESSAGE value="домашка" />
+    <MESSAGE value="домашка, доработка" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашка, доработка" />
   </component>
 </project>
