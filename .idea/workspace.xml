@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07fac715-e0a1-479f-890e-184171ebbdf0" name="Changes" comment="домашка">
+    <list default="true" id="07fac715-e0a1-479f-890e-184171ebbdf0" name="Changes" comment="домашка, доработка">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="cont" />
+        <entry key="$PROJECT_DIR$" value="continued" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,7 +76,9 @@
       <workItem from="1675512623155" duration="7116000" />
       <workItem from="1675586283197" duration="7806000" />
       <workItem from="1675611192015" duration="10097000" />
-      <workItem from="1675887605551" duration="2408000" />
+      <workItem from="1675887605551" duration="3265000" />
+      <workItem from="1675891305668" duration="1859000" />
+      <workItem from="1675935387560" duration="1879000" />
     </task>
     <task id="LOCAL-00001" summary="домашка">
       <created>1675593292738</created>
@@ -119,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675889650408</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="домашка, доработка">
+      <created>1675890476824</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675890476824</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +162,17 @@
     <MESSAGE value="домашка,походу накосячил в проджекте, окрасилось синим" />
     <MESSAGE value="домашка,походу накосячил в проджекте, окрасилось синим, а еще в проджекте нет ссыли на скайпро, скрин прикреплю при сдаче домашки" />
     <MESSAGE value="домашка" />
-    <option name="LAST_COMMIT_MESSAGE" value="домашка" />
+    <MESSAGE value="домашка, доработка" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашка, доработка" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
